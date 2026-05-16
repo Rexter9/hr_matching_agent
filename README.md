@@ -189,16 +189,6 @@ python test_scenarios.py 1      # specific scenario
 
 ---
 
-## 📋 Submission Checklist
-
-- [x] LangGraph-based agent (`matching_agent.py`)
-- [x] State machine diagram (see Architecture section above)
-- [x] Streamlit chat interface (`app.py`)
-- [x] 6 test conversation flows (`test_scenarios.py`)
-- [ ] Demo video (5–6 min) — record `streamlit run app.py` walkthrough
-
----
-
 ## 🔒 Security Note
 
 The `.env` file containing your API key is listed in `.gitignore` and will **never** be committed to this repository.
