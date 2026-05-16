@@ -1,0 +1,48 @@
+Senior Full Stack Developer
+
+Company: TechNova Solutions
+Location: Remote / Hybrid
+Experience: 5+ years
+
+ABOUT THE ROLE:
+We are looking for a Senior Full Stack Developer to join our growing product team.
+You will own features end-to-end, from database design to pixel-perfect UI.
+You will work closely with product managers, designers, and DevOps engineers.
+
+KEY RESPONSIBILITIES:
+- Design and build scalable web applications using React and Python/Node.js
+- Architect and maintain REST APIs and GraphQL endpoints
+- Design PostgreSQL database schemas and write optimized queries
+- Deploy and manage applications on AWS using Docker and CI/CD pipelines
+- Conduct code reviews and mentor junior developers
+- Collaborate with product and design teams in Agile sprints
+- Write unit and integration tests to maintain code quality
+
+MUST HAVE REQUIREMENTS:
+- 5+ years of professional software development experience
+- Strong proficiency in React (hooks, context API, Redux or Zustand)
+- Solid backend experience in Python (FastAPI/Django) or Node.js (Express)
+- PostgreSQL or another relational database (schema design, indexing, query optimization)
+- Experience with Docker and containerization
+- CI/CD pipeline experience (GitHub Actions, Jenkins, or similar)
+- Strong understanding of REST API design principles
+- Experience with Git and collaborative development workflows
+- Bachelor's degree in Computer Science or equivalent practical experience
+- Strong communication and teamwork skills
+
+NICE TO HAVE:
+- TypeScript proficiency
+- AWS cloud services (EC2, ECS, S3, RDS, Lambda)
+- Redis or other caching solutions
+- GraphQL experience
+- Kubernetes knowledge
+- Open source contributions
+- Startup or fast-paced environment experience
+- Agile/Scrum team experience
+
+COMPENSATION:
+- Salary: $120,000 - $160,000 per year
+- Equity package
+- Remote-first culture
+- Health, dental, vision insurance
+- $2,000 annual learning budget

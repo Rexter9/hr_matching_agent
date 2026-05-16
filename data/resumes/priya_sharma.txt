@@ -1,0 +1,48 @@
+PRIYA SHARMA
+Email: priya.sharma@email.com | Phone: +91-98765-43210
+LinkedIn: linkedin.com/in/priyasharma
+Location: Bangalore, India (Open to Remote)
+
+PROFESSIONAL SUMMARY
+Backend-focused software engineer with 6 years of experience in Python and distributed systems.
+Strong expertise in database design and AWS cloud infrastructure. Excellent leadership record
+having managed a backend team of 3. Currently upskilling in React frontend development.
+
+WORK EXPERIENCE
+
+Senior Backend Engineer — FinTech Solutions Pvt. Ltd., Bangalore (Mar 2020 – Present)
+- Architected Python Django REST API handling 1 million+ daily transactions for payments platform
+- Designed PostgreSQL schemas for financial data with strict ACID compliance requirements
+- Built AWS Lambda serverless functions for async payment processing, reducing costs by 35%
+- Implemented Redis caching layer that reduced database load by 70%
+- Created Docker containerization strategy and Jenkins CI/CD pipelines for 12 microservices
+- Led backend team of 3 engineers, conducted weekly code reviews and technical interviews
+- Integrated third-party payment gateways (Razorpay, Stripe) via REST APIs
+
+Software Engineer — DataCorp Analytics, Pune (Aug 2018 – Feb 2020)
+- Built Python data pipelines processing 500GB daily data using Apache Airflow
+- Developed Node.js microservices for real-time data streaming
+- MySQL database administration: schema optimization, backup strategies, replication setup
+- Contributed to React internal dashboards (basic frontend work, learning experience)
+- Wrote comprehensive unit tests achieving 85% code coverage
+
+TECHNICAL SKILLS
+Languages:     Python (Expert), SQL (Expert), JavaScript (Intermediate), Bash (Advanced)
+Backend:       Django, Flask, FastAPI, Node.js, REST APIs, GraphQL (basic)
+Frontend:      React (learning - 1 year, built 3 internal projects), HTML/CSS
+Databases:     PostgreSQL (Expert), MySQL, Redis, Elasticsearch, DynamoDB
+Cloud & DevOps: AWS (Lambda, RDS, S3, EC2, CloudWatch), Docker, Jenkins, Terraform
+Tools:         Git, Apache Airflow, Celery, RabbitMQ, JIRA
+
+EDUCATION
+B.Tech Computer Engineering — IIT Bombay (2014–2018)
+First Class Honours | CGPA: 8.9/10
+
+CERTIFICATIONS
+- AWS Solutions Architect Associate (2022)
+- AWS Developer Associate (2023)
+- Python Institute PCEP Certified (2019)
+
+ACHIEVEMENTS
+- Reduced payment processing failures from 2.3% to 0.1% through improved error handling
+- Won internal hackathon 2022: built fraud detection ML pipeline in 24 hours

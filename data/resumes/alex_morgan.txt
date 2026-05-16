@@ -1,0 +1,47 @@
+ALEX MORGAN
+Email: alex.morgan@email.com | Phone: +1-312-555-0189
+GitHub: github.com/alexmorgan | Portfolio: alexmorgan.dev
+Location: Chicago, IL
+
+PROFESSIONAL SUMMARY
+Frontend specialist with 4 years experience, transitioning to full-stack development.
+Expert in React and TypeScript with proven record in performance optimization.
+Strong in UI/UX implementation. Backend skills growing steadily with Node.js and Python.
+Total experience: 4 years (below 5-year requirement but strong frontend depth).
+
+WORK EXPERIENCE
+
+Frontend Engineer — ShopEase E-Commerce, Chicago (Feb 2021 – Present)
+- Built and maintained React + TypeScript storefront serving 2 million monthly visitors
+- Implemented Redux Toolkit and React Query for complex state management
+- Performance optimization: reduced Largest Contentful Paint from 4.2s to 1.8s (57% improvement)
+- Built component library with 60+ reusable components documented in Storybook
+- Wrote REST API endpoints in Node.js for product search and cart features
+- PostgreSQL queries for product catalog (intermediate level, with help from senior engineers)
+- Docker setup for local development environments
+- GitHub Actions CI/CD pipeline for frontend deployments
+
+Junior Full Stack Developer — DigitalAgency, Chicago (Sep 2020 – Jan 2021)
+- React frontend with Python Flask backends for 5 client projects
+- PostgreSQL and SQLite database work (basic CRUD operations)
+- Docker for local development
+
+Intern — StartupXYZ, Remote (Jun 2019 – Aug 2020)
+- React component development
+- Basic SQL queries and data entry automation scripts in Python
+
+TECHNICAL SKILLS
+Languages:     TypeScript (Expert), JavaScript (Expert), Python (Basic), SQL (Intermediate)
+Frontend:      React (Expert), Redux Toolkit, Next.js, Styled Components, Tailwind CSS
+Backend:       Node.js (Intermediate), Python Flask (Basic), REST APIs
+Databases:     PostgreSQL (Intermediate), MongoDB (Basic)
+Cloud & DevOps: AWS S3 and basic EC2, Docker (local dev), GitHub Actions (basic)
+Tools:         Git, Webpack, Storybook, Figma, Lighthouse
+
+EDUCATION
+B.S. Computer Science — City College of Chicago (2015–2019)
+GPA: 3.8/4.0 | Summa Cum Laude
+
+NOTES FOR RECRUITER
+Only 4 years total experience vs 5 required. Very strong on frontend, backend still growing.
+Best fit for frontend-heavy full-stack roles or teams with strong backend mentorship available.

@@ -1,0 +1,49 @@
+JOHN CHEN
+Email: john.chen@email.com | Phone: +1-415-555-0101
+LinkedIn: linkedin.com/in/johnchen | GitHub: github.com/johnchen
+Location: San Francisco, CA
+
+PROFESSIONAL SUMMARY
+Full-stack engineer with 7 years of experience building high-traffic web applications.
+Expert in React and Python microservices. Passionate about clean architecture and mentoring.
+Proven track record of leading teams and shipping products used by millions of users.
+
+WORK EXPERIENCE
+
+Senior Software Engineer — TechStartup Inc., San Francisco (Jan 2021 – Present)
+- Led frontend architecture migration from class components to React 18 with TypeScript and hooks
+- Built real-time analytics dashboard serving 50,000 daily active users using React + WebSockets
+- Designed Python FastAPI microservices deployed on AWS ECS with auto-scaling
+- Reduced API response time by 45% through Redis caching and PostgreSQL query optimization
+- Mentored team of 4 junior engineers through weekly 1:1s and code reviews
+- Implemented CI/CD pipelines using GitHub Actions and Docker, reducing deploy time from 40min to 8min
+- Introduced GraphQL layer for complex client data requirements
+
+Software Engineer — MidSizeCorp, Austin TX (Jun 2019 – Dec 2020)
+- Developed 30+ React components with Redux state management for enterprise SaaS platform
+- Built RESTful APIs using Node.js and Express serving 500k monthly requests
+- Designed PostgreSQL database schemas and wrote complex analytical queries
+- Reduced database query times by 60% through proper indexing strategies
+- Worked in Agile/Scrum team of 8 engineers, led 3 sprint planning sessions
+
+Junior Developer — WebAgency, Austin TX (Jul 2017 – May 2019)
+- Frontend development for 15+ client websites using React and vanilla JavaScript
+- Basic Python Django backends for content management systems
+- Collaborated with designers to implement pixel-perfect UI components
+
+TECHNICAL SKILLS
+Languages:     Python (Expert), TypeScript (Expert), JavaScript (Expert), SQL (Advanced)
+Frontend:      React, Redux, Zustand, Next.js, Tailwind CSS, Storybook
+Backend:       FastAPI, Django, Node.js, Express, GraphQL, REST APIs
+Databases:     PostgreSQL, Redis, MongoDB, Elasticsearch
+Cloud & DevOps: AWS (EC2, ECS, S3, RDS, Lambda), Docker, Kubernetes, GitHub Actions
+Tools:         Git, JIRA, Figma, Datadog, Sentry
+
+EDUCATION
+B.S. Computer Science — State University, Austin TX (2013–2017)
+GPA: 3.7/4.0 | Dean's List 3 semesters
+
+OPEN SOURCE & ACHIEVEMENTS
+- Contributor to react-query library (42 PRs merged, 800+ GitHub stars on personal projects)
+- Speaker at ReactConf 2023: "Scaling React at 50k DAU"
+- AWS Certified Developer Associate (2022)

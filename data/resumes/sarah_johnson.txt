@@ -1,0 +1,49 @@
+SARAH JOHNSON
+Email: sarah.johnson@email.com | Phone: +1-206-555-0234
+LinkedIn: linkedin.com/in/sarahjohnson | GitHub: github.com/sarahj
+Location: Seattle, WA
+
+PROFESSIONAL SUMMARY
+Senior software engineer with 8 years of experience, recently pivoting from Java/Spring
+to modern full-stack JavaScript and Python. Strong system design background and AWS expertise.
+Led teams of up to 8 engineers. Looking for full-stack role to apply new skills.
+
+WORK EXPERIENCE
+
+Senior Software Engineer — Amazon (AWS Division), Seattle (Jan 2019 – Present)
+- Led backend team of 8 engineers building internal cloud management tools
+- Java Spring Boot microservices (primary stack for 5 years)
+- Designed PostgreSQL and DynamoDB database schemas for high-scale systems
+- Deep AWS expertise: EC2, ECS, Lambda, RDS, S3, CloudFormation, CloudWatch
+- Docker and Kubernetes for container orchestration at scale
+- CI/CD with Jenkins and AWS CodePipeline
+- Recently: built 2 internal tools using React + TypeScript (self-taught, past 8 months)
+- Recently: rewrote 1 microservice in Python FastAPI (past 4 months, learning)
+
+Software Engineer — Microsoft, Seattle (Jul 2016 – Dec 2018)
+- C# .NET backend services for Azure platform tools
+- SQL Server database design and optimization
+- Some JavaScript frontend work (jQuery era, not modern React)
+- Agile/Scrum team of 10 engineers
+
+TECHNICAL SKILLS
+Languages:     Java (Expert), Python (Learning - 6 months), TypeScript (Learning - 8 months), SQL (Expert)
+Frontend:      React (Learning - 8 months, 2 projects built), TypeScript basics
+Backend:       Java Spring Boot (Expert), Python FastAPI (Learning), Node.js (Beginner)
+Databases:     PostgreSQL (Advanced), DynamoDB, SQL Server, Redis
+Cloud & DevOps: AWS (Expert - 5 years), Docker (Advanced), Kubernetes (Advanced), Jenkins, GitHub Actions
+Tools:         Git, JIRA, IntelliJ, VS Code
+
+EDUCATION
+B.S. Computer Science — University of Washington, Seattle (2012–2016)
+GPA: 3.9/4.0 | Valedictorian
+
+ACHIEVEMENTS
+- AWS Solutions Architect Professional (highest level, 2021)
+- AWS DevOps Engineer Professional (2022)
+- Led migration of 15 services to Kubernetes, saving $200k/year in infrastructure costs
+- Published internal tech blog with 2,000+ monthly readers at Amazon
+
+NOTES
+Strong AWS and system design. React and Python are recent (8 months) but learning fast.
+Java background means strong fundamentals. Risk: React/Python depth is junior level currently.

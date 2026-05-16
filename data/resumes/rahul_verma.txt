@@ -1,0 +1,49 @@
+RAHUL VERMA
+Email: rahul.verma@email.com | Phone: +91-99887-76655
+LinkedIn: linkedin.com/in/rahulverma | GitHub: github.com/rahulv
+Location: Hyderabad, India (Open to Remote)
+
+PROFESSIONAL SUMMARY
+Full-stack developer with 5 years of experience across React and Node.js.
+Solid understanding of system design and cloud deployments. Experienced in Agile teams
+at both product startups and service companies. Strong communicator and team player.
+
+WORK EXPERIENCE
+
+Full Stack Developer — CloudSoft Technologies, Hyderabad (Apr 2021 – Present)
+- Built customer-facing React dashboards for SaaS analytics product (10,000 B2B users)
+- Developed Node.js + Express REST APIs integrated with PostgreSQL database
+- Implemented JWT authentication and role-based access control system
+- Wrote Docker compose configurations for multi-service local and staging environments
+- Set up GitHub Actions CI/CD workflows for automated testing and deployment to AWS EC2
+- Participated in daily standups, sprint planning, and retrospectives in Scrum team of 6
+- Conducted code reviews for 2 junior developers
+
+Software Developer — InfoSystems Ltd., Hyderabad (Jun 2019 – Mar 2021)
+- React frontend for internal HR management tool (used by 500 employees)
+- Python Django backend with MySQL database
+- REST API integrations with third-party HRMS systems
+- Basic AWS S3 usage for file storage
+- Git-based workflow with feature branch strategy
+
+TECHNICAL SKILLS
+Languages:     JavaScript (Advanced), Python (Intermediate), SQL (Advanced), TypeScript (Basic)
+Frontend:      React, Redux, React Query, HTML5, CSS3, Bootstrap
+Backend:       Node.js, Express, Python Django, REST APIs
+Databases:     PostgreSQL (Advanced), MySQL, MongoDB (Basic), Redis (Basic)
+Cloud & DevOps: AWS (EC2, S3, RDS), Docker, GitHub Actions, Nginx
+Tools:         Git, JIRA, Postman, VS Code, Linux
+
+EDUCATION
+B.E. Information Technology — Osmania University, Hyderabad (2015–2019)
+First Division | 72%
+
+CERTIFICATIONS
+- AWS Cloud Practitioner (2023)
+- MongoDB Developer Certification (2022)
+
+STRENGTHS
+- Exactly 5 years experience matching job requirement
+- Full-stack breadth across React + Node.js + PostgreSQL + Docker + AWS
+- Strong Agile/Scrum experience
+- Good communication and mentoring experience
